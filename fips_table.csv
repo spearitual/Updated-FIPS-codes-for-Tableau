@@ -1,0 +1,90 @@
+old_FIPS,new_FIPS,new_FIPS_2,new_FIPS_3,old_name,new_name,new_name_2,new_name_3,state,date,border_change,reason,recognized,displayed_correctly
+02901,02016,,,Aleutian Islands Division,Aleutians West Census Area,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02903,02105,,,Angoon Division,Hoonah-Angoon Census Area,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02904,02185,,,Barrow-North Slope Division,North Slope Borough,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02905,02050,,,Bethel Divisio,Bethel Census Area,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02907,02164,,,Bristol Bay Division,Lake and Peninsula Borough,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02908,02066,,,Cordova-McCarthy Division,Copper River Census Area,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02910,02100,,,Haines Division,Haines Borough,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02912,02122,,,Kenai-Cook Inlet Division,Kenai Peninsula Borough,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02916,02290,,,Kuskokwim Division,Yukon-Koyukuk Census Area,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02919,02130,,,Outer Ketchikan Division,Ketchikan Gateway Borough,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02920,02198,,,Prince of Wales Division,Prince of Wales-Hyder Census Area,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02921,02122,,,Seward Division,Kenai Peninsula Borough,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02922,02220,,,Sitka Division,Sitka City and Borough,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02923,02282,,,Skagway-Yakutat Division,Yakutat City and Borough,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02924,02240,,,Southeast Fairbanks Division,Southeast Fairbanks Census Area,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02925,02290,,,Upper Yukon Division,Yukon-Koyukuk Census Area,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02926,02063,,,Valdez-Chitina-Whittier Division,Chugach Census Area,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02928,02275,,,Wrangell-Petersburg Division,Wrangell City and Borough,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02929,02290,,,Yukon-Koyukuk Division,Yukon-Koyukuk Census Area,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02010,02016,02013,,Aleutian Islands Census Area,Aleutians West Census Area,Aleutians East Borough,,Alaska,1987-10-23,TRUE,outdated,FALSE,FALSE
+02231,02105,02282,,Skagway-Yakutat-Angoon Census Area,Hoonah-Angoon Census Area,Yakutat City and Borough,,Alaska,1992-09-22,TRUE,outdated,FALSE,FALSE
+02232,02105,02230,,Skagway-Hoonah-Angoon Census Area,Hoonah-Angoon Census Area,Skagway Municipality,,Alaska,2007-06-20,TRUE,outdated,FALSE,FALSE
+02201,02198,,,Prince of Wales-Outer Ketchikan Census Area,Prince of Wales-Hyder Census Area,,,Alaska,2008-05-19,TRUE,outdated,FALSE,FALSE
+02280,02195,,,Wrangell-Petersburg Census Area,Petersburg Borough,,,Alaska,2008-06-01,TRUE,outdated,FALSE,FALSE
+51515,51019,,,Bedford City,Bedford County,,,Virginia,2013-07-01,TRUE,outdated,FALSE,FALSE
+46113,46102,,,Shannon County,Oglala Lakota County,,,South Dakota,2015-05-01,FALSE,outdated,FALSE,FALSE
+02270,02158,,,Wade Hampton Census Area,Kusilvak Census Area,,,Alaska,2015-07-01,FALSE,outdated,FALSE,FALSE
+09001,09120,,,Fairfield County,Greater Bridgeport Planning Region,,,Connecticut,2024-01-01,TRUE,outdated,TRUE,FALSE
+09003,09170,,,Hartford County,South Central Connecticut Planning Region,,,Connecticut,2024-01-01,TRUE,outdated,TRUE,FALSE
+09005,09160,,,Litchfield County,Northwest Hills Planning Region,,,Connecticut,2024-01-01,TRUE,outdated,TRUE,FALSE
+09007,09130,,,Middlesex County,Lower Connecticut River Valley Planning Region,,,Connecticut,2024-01-01,TRUE,outdated,TRUE,FALSE
+09009,09140,,,New Haven County,Naugatuck Valley Planning Region,,,Connecticut,2024-01-01,TRUE,outdated,TRUE,FALSE
+09011,09180,,,New London County,Southeastern Connecticut Planning Region,,,Connecticut,2024-01-01,TRUE,outdated,TRUE,FALSE
+09013,09110,,,Tolland County,Capitol Planning Region,,,Connecticut,2024-01-01,TRUE,outdated,TRUE,FALSE
+09015,09150,,,Windham County,Northeastern Connecticut Planning Region,,,Connecticut,2024-01-01,TRUE,outdated,TRUE,FALSE
+15901,15009,15005,,Maui + Kalawao,Maui,Kalawao,,Hawaii,,TRUE,combination,FALSE,FALSE
+51901,51003,51540,,Albemarle + Charlottesville,Albemarle County,Charlottesville City,,Virginia,,TRUE,combination,FALSE,FALSE
+51903,51005,51580,,Alleghany + Covington,Alleghany County,Covington City,,Virginia,,TRUE,combination,FALSE,FALSE
+51907,51015,51790,51820,"Augusta, Staunton + Waynesboro",Augusta County,Staunton City,Waynesboro City,Virginia,,TRUE,combination,FALSE,FALSE
+51911,51031,51680,,Campbell + Lynchburg,Campbell County,Lynchburg City,,Virginia,,TRUE,combination,FALSE,FALSE
+51913,51035,51640,,Carroll + Galax,Carroll County,Galax City,,Virginia,,TRUE,combination,FALSE,FALSE
+51918,51053,51570,51730,"Dinwiddie, Colonial Heights + Petersburg",Dinwiddie County,Colonial Heights City,Petersburg City,Virginia,,TRUE,combination,FALSE,FALSE
+51919,51059,51600,51610,"Fairfax, Fairfax City + Falls Church",Fairfax County,Fairfax City,Falls Church City,Virginia,,TRUE,combination,FALSE,FALSE
+51921,51069,51840,,Frederick + Winchester,Frederick County,Winchester City,,Virginia,,TRUE,combination,FALSE,FALSE
+51923,51081,51595,,Greensville + Emporia,Greensville County,Emporia City,,Virginia,,TRUE,combination,FALSE,FALSE
+51929,51089,51690,,Henry + Martinsville,Henry County,Martinsville City,,Virginia,,TRUE,combination,FALSE,FALSE
+51931,51095,51830,,James City + Williamsburg,James City County,Williamsburg City,,Virginia,,TRUE,combination,FALSE,FALSE
+51933,51121,51750,,Montgomery + Radford,Montgomery County,Radford City,,Virginia,,TRUE,combination,FALSE,FALSE
+51939,51143,51590,,Pittsylvania + Danville,Pittsylvania County,Dansville City,,Virginia,,TRUE,combination,FALSE,FALSE
+51941,51149,51670,,Prince George + Hopewell,Prince George County,Hopewell City,,Virginia,,TRUE,combination,FALSE,FALSE
+51942,51153,51683,51685,"Prince William, Manassas + Manassas Park",Prince William County,Manassas City,Manassas Park City,Virginia,,TRUE,combination,FALSE,FALSE
+51944,51161,51775,,Roanoke + Salem,Roanoke County,Salem City,,Virginia,,TRUE,combination,FALSE,FALSE
+51945,51163,51530,51678,"Rockbridge, Buena Vista + Lexington",Rockbridge County,Buena Vista City,Lexington City,Virginia,,TRUE,combination,FALSE,FALSE
+51947,51165,51660,,Rockingham + Harrisonburg,Rockingham County,Harrisonburg City,,Virginia,,TRUE,combination,FALSE,FALSE
+51949,51175,51620,,Southampton + Franklin,Southampton County,Franklin City,,Virginia,,TRUE,combination,FALSE,FALSE
+51951,51177,51630,,Spotsylvania + Fredericksburg,Spotsylvania County,Fredericksburg City,,Virginia,,TRUE,combination,FALSE,FALSE
+51953,51191,51520,,Washington + Bristol,Washington County,Bristol City,,Virginia,,TRUE,combination,FALSE,FALSE
+51955,51195,51720,,Wise + Norton,Wise County,Norton City,,Virginia,,TRUE,combination,FALSE,FALSE
+51958,51199,51735,,York + Poquoson,York County,Poquoson City,,Virginia,,TRUE,combination,FALSE,FALSE
+55901,55115,55078,,Shawano + Menominee,Shawano County,Menominee County,,Wisconsin,1989-01-01,TRUE,combination,FALSE,FALSE
+15005,15009,15901,,Kalawao,Maui,Maui + Kalawao,,Hawaii,,TRUE,merge,TRUE,TRUE
+51540,51003,51901,,Charlottesville City,Albemarle County,Albemarle + Charlottesville,,Virginia,,TRUE,merge,TRUE,TRUE
+51580,51005,51903,,Covington City,Alleghany County,Alleghany + Covington,,Virginia,,TRUE,merge,TRUE,TRUE
+51820,51015,51907,51790,Staunton City,Augusta County,"Augusta, Staunton + Waynesboro",Staunton City,Virginia,,TRUE,merge,TRUE,TRUE
+51680,51031,51911,,Lynchburg City,Campbell County,Campbell + Lynchburg,,Virginia,,TRUE,merge,TRUE,TRUE
+51640,51035,51913,,Galax City,Carroll County,Carroll + Galax,,Virginia,,TRUE,merge,TRUE,TRUE
+51730,51053,51918,51570,Petersburg City,Dinwiddie County,"Dinwiddie, Colonial Heights + Petersburg",Colonial Heights City,Virginia,,TRUE,merge,TRUE,TRUE
+51610,51059,51919,51600,Falls Church City,Fairfax County,"Fairfax, Fairfax City + Falls Church",Fairfax City,Virginia,,TRUE,merge,TRUE,TRUE
+51840,51069,51921,,Winchester City,Frederick County,Frederick + Winchester,,Virginia,,TRUE,merge,TRUE,TRUE
+51595,51081,51923,,Emporia City,Greensville County,Greensville + Emporia,,Virginia,,TRUE,merge,TRUE,TRUE
+51690,51089,51929,,Martinsville City,Henry County,Henry + Martinsville,,Virginia,,TRUE,merge,TRUE,TRUE
+51830,51095,51931,,Williamsburg City,James City County,James City + Williamsburg,,Virginia,,TRUE,merge,TRUE,TRUE
+51750,51121,51933,,Radford City,Montgomery County,Montgomery + Radford,,Virginia,,TRUE,merge,TRUE,TRUE
+51590,51143,51939,,Dansville City,Pittsylvania County,Pittsylvania + Danville,,Virginia,,TRUE,merge,TRUE,TRUE
+51670,51149,51941,,Hopewell City,Prince George County,Prince George + Hopewell,,Virginia,,TRUE,merge,TRUE,TRUE
+51685,51153,51942,51683,Manassas Park City,Prince William County,"Prince William, Manassas + Manassas Park",Manassas City,Virginia,,TRUE,merge,TRUE,TRUE
+51775,51161,51944,,Salem City,Roanoke County,Roanoke + Salem,,Virginia,,TRUE,merge,TRUE,TRUE
+51678,51163,51945,51530,Lexington City,Rockbridge County,"Rockbridge, Buena Vista + Lexington",Buena Vista City,Virginia,,TRUE,merge,TRUE,TRUE
+51660,51165,51947,,Harrisonburg City,Rockingham County,Rockingham + Harrisonburg,,Virginia,,TRUE,merge,TRUE,TRUE
+51620,51175,51949,,Franklin City,Southampton County,Southampton + Franklin,,Virginia,,TRUE,merge,TRUE,TRUE
+51630,51177,51951,,Fredericksburg City,Spotsylvania County,Spotsylvania + Fredericksburg,,Virginia,,TRUE,merge,TRUE,TRUE
+51520,51191,51953,,Bristol City,Washington County,Washington + Bristol,,Virginia,,TRUE,merge,TRUE,TRUE
+51720,51195,51955,,Norton City,Wise County,Wise + Norton,,Virginia,,TRUE,merge,TRUE,TRUE
+51735,51199,51958,,Poquoson City,York County,York + Poquoson,,Virginia,,TRUE,merge,TRUE,TRUE
+51790,51015,51907,51820,Waynesboro City,Augusta County,"Augusta, Staunton + Waynesboro",Staunton City,Virginia,,TRUE,merge,TRUE,TRUE
+51570,51053,51918,51730,Colonial Heights City,Dinwiddie County,"Dinwiddie, Colonial Heights + Petersburg",Petersburg City,Virginia,,TRUE,merge,TRUE,TRUE
+51600,51059,51919,51610,Falls Church City,Fairfax County,"Fairfax, Fairfax City + Falls Church",Falls Church City,Virginia,,TRUE,merge,TRUE,TRUE
+51683,51153,51942,51685,Manassas City,Prince William County,"Prince William, Manassas + Manassas Park",Manassas Park City,Virginia,,TRUE,merge,TRUE,TRUE
+51530,51163,51945,51678,Buena Vista City,Rockbridge County,"Rockbridge, Buena Vista + Lexington",Lexington City,Virginia,,TRUE,merge,TRUE,TRUE
