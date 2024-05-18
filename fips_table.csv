@@ -59,32 +59,32 @@ old_FIPS,new_FIPS,new_FIPS_2,new_FIPS_3,old_name,new_name,new_name_2,new_name_3,
 51955,51195,51720,,Wise + Norton,Wise County,Norton City,,Virginia,,TRUE,combination,FALSE,FALSE
 51958,51199,51735,,York + Poquoson,York County,Poquoson City,,Virginia,,TRUE,combination,FALSE,FALSE
 55901,55115,55078,,Shawano + Menominee,Shawano County,Menominee County,,Wisconsin,1989-01-01,TRUE,combination,FALSE,FALSE
-15005,15009,15901,,Kalawao,Maui,Maui + Kalawao,,Hawaii,,TRUE,merge,TRUE,TRUE
-51540,51003,51901,,Charlottesville City,Albemarle County,Albemarle + Charlottesville,,Virginia,,TRUE,merge,TRUE,TRUE
-51580,51005,51903,,Covington City,Alleghany County,Alleghany + Covington,,Virginia,,TRUE,merge,TRUE,TRUE
-51820,51015,51907,51790,Staunton City,Augusta County,"Augusta, Staunton + Waynesboro",Staunton City,Virginia,,TRUE,merge,TRUE,TRUE
-51680,51031,51911,,Lynchburg City,Campbell County,Campbell + Lynchburg,,Virginia,,TRUE,merge,TRUE,TRUE
-51640,51035,51913,,Galax City,Carroll County,Carroll + Galax,,Virginia,,TRUE,merge,TRUE,TRUE
-51730,51053,51918,51570,Petersburg City,Dinwiddie County,"Dinwiddie, Colonial Heights + Petersburg",Colonial Heights City,Virginia,,TRUE,merge,TRUE,TRUE
-51610,51059,51919,51600,Falls Church City,Fairfax County,"Fairfax, Fairfax City + Falls Church",Fairfax City,Virginia,,TRUE,merge,TRUE,TRUE
-51840,51069,51921,,Winchester City,Frederick County,Frederick + Winchester,,Virginia,,TRUE,merge,TRUE,TRUE
-51595,51081,51923,,Emporia City,Greensville County,Greensville + Emporia,,Virginia,,TRUE,merge,TRUE,TRUE
-51690,51089,51929,,Martinsville City,Henry County,Henry + Martinsville,,Virginia,,TRUE,merge,TRUE,TRUE
-51830,51095,51931,,Williamsburg City,James City County,James City + Williamsburg,,Virginia,,TRUE,merge,TRUE,TRUE
-51750,51121,51933,,Radford City,Montgomery County,Montgomery + Radford,,Virginia,,TRUE,merge,TRUE,TRUE
-51590,51143,51939,,Dansville City,Pittsylvania County,Pittsylvania + Danville,,Virginia,,TRUE,merge,TRUE,TRUE
-51670,51149,51941,,Hopewell City,Prince George County,Prince George + Hopewell,,Virginia,,TRUE,merge,TRUE,TRUE
-51685,51153,51942,51683,Manassas Park City,Prince William County,"Prince William, Manassas + Manassas Park",Manassas City,Virginia,,TRUE,merge,TRUE,TRUE
-51775,51161,51944,,Salem City,Roanoke County,Roanoke + Salem,,Virginia,,TRUE,merge,TRUE,TRUE
-51678,51163,51945,51530,Lexington City,Rockbridge County,"Rockbridge, Buena Vista + Lexington",Buena Vista City,Virginia,,TRUE,merge,TRUE,TRUE
-51660,51165,51947,,Harrisonburg City,Rockingham County,Rockingham + Harrisonburg,,Virginia,,TRUE,merge,TRUE,TRUE
-51620,51175,51949,,Franklin City,Southampton County,Southampton + Franklin,,Virginia,,TRUE,merge,TRUE,TRUE
-51630,51177,51951,,Fredericksburg City,Spotsylvania County,Spotsylvania + Fredericksburg,,Virginia,,TRUE,merge,TRUE,TRUE
-51520,51191,51953,,Bristol City,Washington County,Washington + Bristol,,Virginia,,TRUE,merge,TRUE,TRUE
-51720,51195,51955,,Norton City,Wise County,Wise + Norton,,Virginia,,TRUE,merge,TRUE,TRUE
-51735,51199,51958,,Poquoson City,York County,York + Poquoson,,Virginia,,TRUE,merge,TRUE,TRUE
-51790,51015,51907,51820,Waynesboro City,Augusta County,"Augusta, Staunton + Waynesboro",Staunton City,Virginia,,TRUE,merge,TRUE,TRUE
-51570,51053,51918,51730,Colonial Heights City,Dinwiddie County,"Dinwiddie, Colonial Heights + Petersburg",Petersburg City,Virginia,,TRUE,merge,TRUE,TRUE
-51600,51059,51919,51610,Falls Church City,Fairfax County,"Fairfax, Fairfax City + Falls Church",Falls Church City,Virginia,,TRUE,merge,TRUE,TRUE
-51683,51153,51942,51685,Manassas City,Prince William County,"Prince William, Manassas + Manassas Park",Manassas Park City,Virginia,,TRUE,merge,TRUE,TRUE
-51530,51163,51945,51678,Buena Vista City,Rockbridge County,"Rockbridge, Buena Vista + Lexington",Lexington City,Virginia,,TRUE,merge,TRUE,TRUE
+15005,15009,15901,,Kalawao,Maui,Maui + Kalawao,,Hawaii,,TRUE,unmerged,TRUE,TRUE
+51540,51003,51901,,Charlottesville City,Albemarle County,Albemarle + Charlottesville,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51580,51005,51903,,Covington City,Alleghany County,Alleghany + Covington,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51820,51015,51907,51790,Staunton City,Augusta County,"Augusta, Staunton + Waynesboro",Staunton City,Virginia,,TRUE,unmerged,TRUE,TRUE
+51680,51031,51911,,Lynchburg City,Campbell County,Campbell + Lynchburg,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51640,51035,51913,,Galax City,Carroll County,Carroll + Galax,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51730,51053,51918,51570,Petersburg City,Dinwiddie County,"Dinwiddie, Colonial Heights + Petersburg",Colonial Heights City,Virginia,,TRUE,unmerged,TRUE,TRUE
+51610,51059,51919,51600,Falls Church City,Fairfax County,"Fairfax, Fairfax City + Falls Church",Fairfax City,Virginia,,TRUE,unmerged,TRUE,TRUE
+51840,51069,51921,,Winchester City,Frederick County,Frederick + Winchester,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51595,51081,51923,,Emporia City,Greensville County,Greensville + Emporia,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51690,51089,51929,,Martinsville City,Henry County,Henry + Martinsville,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51830,51095,51931,,Williamsburg City,James City County,James City + Williamsburg,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51750,51121,51933,,Radford City,Montgomery County,Montgomery + Radford,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51590,51143,51939,,Dansville City,Pittsylvania County,Pittsylvania + Danville,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51670,51149,51941,,Hopewell City,Prince George County,Prince George + Hopewell,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51685,51153,51942,51683,Manassas Park City,Prince William County,"Prince William, Manassas + Manassas Park",Manassas City,Virginia,,TRUE,unmerged,TRUE,TRUE
+51775,51161,51944,,Salem City,Roanoke County,Roanoke + Salem,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51678,51163,51945,51530,Lexington City,Rockbridge County,"Rockbridge, Buena Vista + Lexington",Buena Vista City,Virginia,,TRUE,unmerged,TRUE,TRUE
+51660,51165,51947,,Harrisonburg City,Rockingham County,Rockingham + Harrisonburg,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51620,51175,51949,,Franklin City,Southampton County,Southampton + Franklin,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51630,51177,51951,,Fredericksburg City,Spotsylvania County,Spotsylvania + Fredericksburg,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51520,51191,51953,,Bristol City,Washington County,Washington + Bristol,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51720,51195,51955,,Norton City,Wise County,Wise + Norton,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51735,51199,51958,,Poquoson City,York County,York + Poquoson,,Virginia,,TRUE,unmerged,TRUE,TRUE
+51790,51015,51907,51820,Waynesboro City,Augusta County,"Augusta, Staunton + Waynesboro",Staunton City,Virginia,,TRUE,unmerged,TRUE,TRUE
+51570,51053,51918,51730,Colonial Heights City,Dinwiddie County,"Dinwiddie, Colonial Heights + Petersburg",Petersburg City,Virginia,,TRUE,unmerged,TRUE,TRUE
+51600,51059,51919,51610,Falls Church City,Fairfax County,"Fairfax, Fairfax City + Falls Church",Falls Church City,Virginia,,TRUE,unmerged,TRUE,TRUE
+51683,51153,51942,51685,Manassas City,Prince William County,"Prince William, Manassas + Manassas Park",Manassas Park City,Virginia,,TRUE,unmerged,TRUE,TRUE
+51530,51163,51945,51678,Buena Vista City,Rockbridge County,"Rockbridge, Buena Vista + Lexington",Lexington City,Virginia,,TRUE,unmerged,TRUE,TRUE
