@@ -12,7 +12,9 @@ Note that displaying data for extinct counties according to modern borders is in
 If you find an error or have an addition to make, please don't hesitate to let me know. 
 
 Terms:
+
 *old_FIPS: This is the original FIPS code.
+
 *new_FIPS: This is my primary suggestion for updating the original FIPS. In the case of the original FIPS being outdated, this is the nearest modern equivalent to the county of the old FIPS (in the case of a county being split, it is the largest of the resulting counties, by land area). In the case of combined counties, it is the county in that combination (i.e., not the independent city, but the surrounding county). In the case of the FIPS of independent cities, it is the FIPS of the surrounding county. All new_FIPS are recognized by Tableau, as of 2024-05-18.
 *new_FIPS_2: This is my secondary suggestion, if any. In the case of being outdated, it is the second-largest county in the split. In the case of combined counties, it is the first independent city, alphabetically sorted. In the case of the FIPS of independent cities, it is the FIPS of the combination of that city with its surrounding county (and the other city, if any). Note the combined FIPS will not be recognized by Tableau.
 *new_FIPS_3: My tertiary suggestion, if any. In the case of combined counties, it is the next independent city in alphabetical order. In the case of the FIPS of independent cities, it is the other city involved in the combination.
