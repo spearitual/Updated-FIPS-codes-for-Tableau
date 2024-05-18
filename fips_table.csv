@@ -2,7 +2,7 @@ old_FIPS,new_FIPS,new_FIPS_2,new_FIPS_3,old_name,new_name,new_name_2,new_name_3,
 02901,02016,,,Aleutian Islands Division,Aleutians West Census Area,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
 02903,02105,,,Angoon Division,Hoonah-Angoon Census Area,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
 02904,02185,,,Barrow-North Slope Division,North Slope Borough,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
-02905,02050,,,Bethel Divisio,Bethel Census Area,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
+02905,02050,,,Bethel Division,Bethel Census Area,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
 02907,02164,,,Bristol Bay Division,Lake and Peninsula Borough,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
 02908,02066,,,Cordova-McCarthy Division,Copper River Census Area,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
 02910,02100,,,Haines Division,Haines Borough,,,Alaska,1980-01-01,TRUE,outdated,FALSE,FALSE
