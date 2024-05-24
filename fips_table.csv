@@ -23,6 +23,7 @@ old_FIPS,new_FIPS,new_FIPS_2,new_FIPS_3,old_name,new_name,new_name_2,new_name_3,
 02232,02105,02230,,Skagway-Hoonah-Angoon Census Area,Hoonah-Angoon Census Area,Skagway Municipality,,Alaska,2007-06-20,TRUE,outdated,FALSE,FALSE
 02201,02198,,,Prince of Wales-Outer Ketchikan Census Area,Prince of Wales-Hyder Census Area,,,Alaska,2008-05-19,TRUE,outdated,FALSE,FALSE
 02280,02195,,,Wrangell-Petersburg Census Area,Petersburg Borough,,,Alaska,2008-06-01,TRUE,outdated,FALSE,FALSE
+02261,02066,02063,,Valdez–Cordova Census Area,Copper River Census Area,Valdez-Cordova Census Area,,Alaska,2019-01-02,TRUE,outdated,TRUE,FALSE
 51515,51019,,,Bedford City,Bedford County,,,Virginia,2013-07-01,TRUE,outdated,FALSE,FALSE
 46113,46102,,,Shannon County,Oglala Lakota County,,,South Dakota,2015-05-01,FALSE,outdated,FALSE,FALSE
 02270,02158,,,Wade Hampton Census Area,Kusilvak Census Area,,,Alaska,2015-07-01,FALSE,outdated,FALSE,FALSE
